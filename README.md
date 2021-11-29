@@ -42,3 +42,6 @@
     <img src="https://komarev.com/ghpvc/?username=Bikku345">
 </a>
 <a href="https://github.com/Bikku345?tab=followers"><img src="https://img.shields.io/github/followers/Bikku345?label=Followers&style=social" alt="GitHub Badge"></a>
+
+### Mostly Used Languages:
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikku345&layout=compact&theme=green-white)](https://github.com/Bikku345)
